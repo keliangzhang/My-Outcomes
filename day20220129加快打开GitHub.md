@@ -31,7 +31,7 @@
 
 下边是代码：
 
-# GitHub520 Host Start
+#GitHub520 Host Start
 185.199.108.154               github.githubassets.com
 140.82.113.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
@@ -64,8 +64,8 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-03-16T12:24:16+08:00
-# Star me GitHub url: https://github.com/521xueweihan/GitHub520
-# GitHub520 Host End
+#Update time: 2021-03-16T12:24:16+08:00
+#Star me GitHub url: https://github.com/521xueweihan/GitHub520
+#GitHub520 Host End
 
 看着还挺全面，功效嘛，有待验证！
