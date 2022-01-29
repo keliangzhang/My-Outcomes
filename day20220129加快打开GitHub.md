@@ -12,12 +12,12 @@
 
 ### 将如下文件复制：
 
-#github
-140.82.112.4 github.com
-199.232.69.194 github.global.ssl.fastly.net
-185.199.108.153 assets-cdn.github.com
-185.199.110.153 assets-cdn.github.com
-185.199.111.153 assets-cdn.github.comem32\drivers\etc
+> #github
+> 140.82.112.4 github.com
+> 199.232.69.194 github.global.ssl.fastly.net
+> 185.199.108.153 assets-cdn.github.com
+> 185.199.110.153 assets-cdn.github.com
+> 185.199.111.153 assets-cdn.github.comem32\drivers\etc
 
 粘贴至C:\Windows\System32\drivers\etc中的hosts中
 
